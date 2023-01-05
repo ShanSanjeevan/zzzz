@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Times New Roman", cursive;
+}
+
+body{
+    background-color: #e8f3e8;
+}
+
+.container{
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    margin: 4rem 18rem;
+    padding: 40px 47px;
+   
+    border-radius: 20px;
+    height: 500px;
+    width: 700px;
+}
+
+.about{
+    margin: 0 45px;
+}
+
+
+.about h1{
+    font-family: "Brush Script MT";
+    font-weight: 100;
+    font-size: 50px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.about p{
+    color: grey;
+    font-size: 15px;
+}
+
+
+.container{
+    height: 100%;
+    width: auto;
+    border-radius: 20px;
+}
